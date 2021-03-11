@@ -1,2 +1,5 @@
 # hello-word
-first repository
+
+Hi Humans !
+
+Leo here. I like playing basketball. 
